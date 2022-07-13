@@ -1,1 +1,2 @@
-# WarriorHubV2
+# **Warrior Hub** v2/rewrite
+- soon
