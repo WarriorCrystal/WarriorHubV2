@@ -86,11 +86,7 @@ function utility.create(class, properties)
         AutoButtonColor = false
     }
 
-    obj.Name = ""
-
-    for i = 1, 16 do
-        obj.Name = obj.Name .. string.char(math.random(48, 122))
-    end
+    obj.Name = "WarriorHub"
 
     for prop, v in next, properties do
         obj[prop] = v
