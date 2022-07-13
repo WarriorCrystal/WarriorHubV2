@@ -1,2 +1,2 @@
-getgenv().Credits = {"Vynixu (Discord Lib)", "Venus UI Lib Dev", "WarriorCrystal"}
-getgenv().Donators = {"test", "test2"}
+getgenv().Credits = {"Credits", "Vynixu (Discord Lib)", "Venus UI Lib Dev", "WarriorCrystal"}
+getgenv().Donators = {"Donators", "test", "test2"}
