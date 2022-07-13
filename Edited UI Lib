@@ -189,10 +189,6 @@ end
 
 local venuslib = utility.create("ScreenGui", {})
 
-if syn and syn.protect_gui then
-    syn.protect_gui(venuslib)
-end
-
 venuslib.Parent = coreGui
 
 library = utility.format_table(library)
