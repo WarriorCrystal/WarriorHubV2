@@ -1,2 +1,2 @@
 # **Warrior Hub** v2/rewrite
-- soon
+- will never be finished
